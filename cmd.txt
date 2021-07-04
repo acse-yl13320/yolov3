@@ -1,0 +1,2 @@
+python train.py --batch 16 --img-size 416 416 --epochs 50 --data craters.yaml --weights yolov3.pt
+python train.py --batch 16 --img-size 593 593 --epochs 50 --data robbins.yaml --weights yolov3.pt
