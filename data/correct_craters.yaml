@@ -1,5 +1,5 @@
-train: ../dataset/
-val: ../valid/
+train: ..correct_craters/dataset/
+val: ..correct_craters/valid/
 
 # number of classes
 nc: 1
